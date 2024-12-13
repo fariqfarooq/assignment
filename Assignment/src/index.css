@@ -1,0 +1,20 @@
+/* App.css */
+.App {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.editor-container {
+  border: 1px solid #ccc;
+  padding: 10px;
+  min-height: 200px;
+  cursor: text;
+  margin-top: 10px;
+  border-radius: 4px;
+}
+
+/* Optional: Styling for header blocks */
+.public-DraftStyleDefault-block.public-DraftStyleDefault-header-one {
+  font-size: 2em;
+  font-weight: bold;
+}
